@@ -1,3 +1,3 @@
 <?php
-echo jiljo;
+echo "jiljo";
 ?>
